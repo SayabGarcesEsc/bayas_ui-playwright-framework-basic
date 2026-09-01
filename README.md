@@ -10,7 +10,7 @@ A lightweight UI automation framework built with Playwright and TypeScript. Desi
 ## 📋 Prerequisites
 
 Before installing, ensure you have the following installed:
-* [Node.js](https://nodejs.org) (v18 or higher recommended)
+* [Node.js](https://nodejs.org) (v24 used in this PR)
 * npm (comes with Node.js)
 
 ## 🛠️ Installation
